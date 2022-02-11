@@ -9,7 +9,8 @@ form {
     padding: 1% 2% 1% 2%;
     text-align: left;
     border-radius: 8px;
-    font-family: var(--texto-logo-cabecera);
+    font-family: 'Helvetica';
+    font-size: large;
 }
 
 #izq {
